@@ -1,2 +1,8 @@
-System.out.print("Hello");
-System.out.print("Hello world");
+import java .util.*;
+class sarathy{
+    System.out.print("Hello");
+    System.out.print("Hello world");
+    System.out.print("vasanth");
+    System.out.print("vikram");
+}
+
